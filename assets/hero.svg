@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" preserveAspectRatio="xMidYMid slice" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#163a6e"/>
+      <stop offset="1" stop-color="#1f54a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <!-- faint blueprint roof lines -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="3">
+    <path d="M120 470 L300 320 L480 470"/>
+    <path d="M170 470 L300 360 L430 470"/>
+    <rect x="245" y="430" width="40" height="40"/>
+    <rect x="320" y="430" width="40" height="40"/>
+    <path d="M720 520 L900 360 L1080 520"/>
+    <path d="M770 520 L900 400 L1030 520"/>
+    <rect x="845" y="470" width="44" height="50"/>
+    <path d="M560 600 L660 520 L760 600"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="2">
+    <path d="M0 600 L1200 600"/>
+    <path d="M0 640 L1200 640"/>
+    <path d="M0 680 L1200 680"/>
+  </g>
+  <g fill="#ffffff" fill-opacity="0.05">
+    <circle cx="1050" cy="150" r="120"/>
+    <circle cx="180" cy="120" r="70"/>
+  </g>
+</svg>

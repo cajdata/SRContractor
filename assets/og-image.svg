@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="SR Contractor LLC — Arvada Contractor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15396e"/>
+      <stop offset="1" stop-color="#1f54a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="4">
+    <path d="M820 470 L980 330 L1140 470"/>
+    <path d="M860 470 L980 365 L1100 470"/>
+    <rect x="945" y="430" width="38" height="40"/>
+  </g>
+  <!-- logo mark -->
+  <g transform="translate(90,90)">
+    <rect width="96" height="96" rx="20" fill="#ffffff" fill-opacity="0.12"/>
+    <path d="M22 40 Q48 14 74 34" fill="none" stroke="#7eb1f2" stroke-width="6" stroke-linecap="round"/>
+    <path d="M16 70 L38 42 L60 70 Z" fill="#9fb1cc"/>
+    <path d="M40 70 L62 40 L84 70 Z" fill="#ffffff"/>
+  </g>
+  <text x="210" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#cdddf5" letter-spacing="2">SR CONTRACTOR LLC</text>
+  <text x="90" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="800" fill="#ffffff">Your Arvada</text>
+  <text x="90" y="420" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="800" fill="#ffffff">Contractor</text>
+  <text x="92" y="500" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="600" fill="#f5921b">Remodeling · Painting · Decks · Fencing · More</text>
+  <text x="92" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#dbe6f7">Free Quotes  ·  (720) 672-2730  ·  Se habla español</text>
+</svg>

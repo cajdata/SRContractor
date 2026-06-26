@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SR Contractor LLC">
+  <rect width="64" height="64" rx="13" fill="#15396e"/>
+  <!-- blue arc -->
+  <path d="M14 26 Q32 8 50 22" fill="none" stroke="#3b86e6" stroke-width="4" stroke-linecap="round"/>
+  <!-- two slate roofs -->
+  <path d="M10 46 L25 28 L40 46 Z" fill="#9fb1cc"/>
+  <path d="M26 46 L41 26 L56 46 Z" fill="#cdd9ec"/>
+  <!-- windows -->
+  <rect x="21" y="40" width="6" height="6" fill="#15396e"/>
+  <rect x="37" y="40" width="6" height="6" fill="#15396e"/>
+</svg>
